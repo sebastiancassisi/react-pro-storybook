@@ -1,1 +1,7 @@
-published at https://sebastiancassisi.github.io/react-pro-storybook/
+# React-pro-storybook
+
+```
+npm i sch-storybook-components
+```
+
+[Storybook Components](https://sebastiancassisi.github.io/react-pro-storybook/)
